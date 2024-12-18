@@ -1,16 +1,5 @@
 <?php
 /**
- * Plugin Name:       GenPress global colour palette for Beaver Builder colour picker
- * Plugin URI:        https://github.com/weavedigitalstudio/Weave-Funeral-Site-Additions/ 
- * Description:       A custom plugin to add Beaver Builder color picker compatibility for the GeneratePress Global Color Palette.
- * Version:           0.1.1
- * Primary Branch:    main
- * GitHub Plugin URI: weavedigitalstudio/GeneratePress-BB-Color-Palettes
- * Author:            Weave Digital Studio
- * License:           MIT
- */
-
-/**
  * Plugin Name: Weave Funeral Site Additions
  * Plugin URI: https://github.com/weavedigitalstudio/Weave-Funeral-Site-Additions/
  * Description: Adds custom post types and taxonomies for Staff, Caskets, and Urns for the funeral industry
